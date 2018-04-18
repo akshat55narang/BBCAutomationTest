@@ -1,0 +1,14 @@
+/home/akshat/workspace/BBCRegistration/src/test/java/runners/TestRunner.java
+/home/akshat/workspace/BBCRegistration/src/test/java/cucumber/TestContext.java
+/home/akshat/workspace/BBCRegistration/src/test/java/managers/WebDriverManager.java
+/home/akshat/workspace/BBCRegistration/src/test/java/objectRepository/RegistrationAge.java
+/home/akshat/workspace/BBCRegistration/src/test/java/cucumber/Log.java
+/home/akshat/workspace/BBCRegistration/src/test/java/dataProvider/ConfigFileReader.java
+/home/akshat/workspace/BBCRegistration/src/test/java/stepDefinition/StepDefinitionGeneric.java
+/home/akshat/workspace/BBCRegistration/src/test/java/managers/ConfigFileManager.java
+/home/akshat/workspace/BBCRegistration/src/test/java/managers/PageObjectManager.java
+/home/akshat/workspace/BBCRegistration/src/test/java/stepDefinition/StepDefinitionSignin.java
+/home/akshat/workspace/BBCRegistration/src/test/java/objectRepository/RegistrationPage.java
+/home/akshat/workspace/BBCRegistration/src/test/java/objectRepository/RegistrationDetails.java
+/home/akshat/workspace/BBCRegistration/src/test/java/stepDefinition/StepDefinitionRegistration.java
+/home/akshat/workspace/BBCRegistration/src/test/java/objectRepository/SignInPage.java
